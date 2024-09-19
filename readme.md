@@ -42,8 +42,8 @@ This project generates heatmaps of player positions in League of Legends matches
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/lol-position-heatmap.git
-   cd lol-position-heatmap
+   git clone https://github.com/guishenrique/League-of-Legends-Player-Position-Heatmap-Generator.git
+   cd League-of-Legends-Player-Position-Heatmap-Generator
    ```
 
 2. Install the required dependencies:
